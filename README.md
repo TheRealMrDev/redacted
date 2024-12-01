@@ -1,2 +1,2 @@
-# redacted
+# [REDACTED]
 Game Off Source Code
